@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Mini Golf
 //
-//  Created by Frank Mathy on 27.12.16.
+//  Created by Frank Mathy on 27.12.16. So cool!!!!
 //  Copyright © 2016 Frank Mathy. All rights reserved.
 //
 
