@@ -424,6 +424,7 @@
 				0156ABDE1E1318C9008C954F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0156ABDF1E1318C9008C954F /* Build configuration list for PBXNativeTarget "Mini GolfTests" */ = {
 			isa = XCConfigurationList;
@@ -432,6 +433,7 @@
 				0156ABE11E1318C9008C954F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
